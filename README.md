@@ -7,11 +7,11 @@
  - [Published Blogs List](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aopen+label%3A%5BPUBLISHED%5D) 
 --> Issues with *[PUBLISHED]* tag are published blogs.
 
- - [Editing blogs List](https://github.com/nevstop/nevstop.github.io/issues/assigned/nevstop) 
---> Issues with assignee of NEVSTOP are editing blogs.
+ - [Editing blogs List](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aopen+label%3A%5BEDITING%5D) 
+--> Issues with *[EDITING]* tag are published blogs.
 
- - [Ideas](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee) 
---> Issues without assignee & is:open are ideas.
+ - [Ideas](https://github.com/nevstop/nevstop.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+no%3Amilestones) 
+--> Issues without milestones & is:open are ideas.
 
 
 ## [Categories](https://github.com/nevstop/nevstop.github.io/projects)
