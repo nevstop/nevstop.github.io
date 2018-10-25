@@ -17,7 +17,7 @@
  
 ## Tags
 
-*Issue Labels** are used as tags.   
+**Issue Labels** are used as tags.   
 
 [**LabVIEW**](https://github.com/nevstop/nevstop.github.io/labels/LabVIEW) | 
 [**VIPM**](https://github.com/nevstop/nevstop.github.io/labels/VIPM) | 
