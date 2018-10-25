@@ -19,10 +19,10 @@
 
 *Issue Labels** are used as tags.   
 
-[**Docker**](https://github.com/nevstop/nevstop.github.io/labels/Docker)
-[**git**](https://github.com/nevstop/nevstop.github.io/labels/git)
-[**perforce**](https://github.com/nevstop/nevstop.github.io/labels/perforce)
-[**LabVIEW**](https://github.com/nevstop/nevstop.github.io/labels/LabVIEW)
+[**LabVIEW**](https://github.com/nevstop/nevstop.github.io/labels/LabVIEW) | 
+[**VIPM**](https://github.com/nevstop/nevstop.github.io/labels/VIPM) | 
+[**Github_Repo**](https://github.com/nevstop/nevstop.github.io/labels/Github_Repo) | 
+[**Docker**](https://github.com/nevstop/nevstop.github.io/labels/Docker) | 
+[**git**](https://github.com/nevstop/nevstop.github.io/labels/git) | 
+[**perforce**](https://github.com/nevstop/nevstop.github.io/labels/perforce) | 
 [**Linux**](https://github.com/nevstop/nevstop.github.io/labels/Linux)
-[**VIPM**](https://github.com/nevstop/nevstop.github.io/labels/VIPM)
-[**Github_Repo**](https://github.com/nevstop/nevstop.github.io/labels/Github_Repo)
