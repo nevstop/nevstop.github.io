@@ -1,4 +1,4 @@
-# [Personal blog for NEVSTOP](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aclosed)
+# Personal blog for NEVSTOP
 
 **Issues** are used to track the blogs. --> [Blogs list](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aclosed)
 
