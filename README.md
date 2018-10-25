@@ -3,7 +3,7 @@
 ## Blogs
 
 **Issues** are used to track the blogs.    
---> [Blogs list](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aclosed)
+--> [Blogs list](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aopen+label%3A%5BPUBLISHED%5D)
 
 ## Categories
 
