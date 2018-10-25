@@ -1,7 +1,11 @@
 # Personal blog for NEVSTOP
 
+## Blogs
+
 **Issues** are used to track the blogs.    
 --> [Blogs list](https://github.com/nevstop/nevstop.github.io/issues?q=is%3Aissue+is%3Aclosed)
+
+## Categories
 
 **Projects** are used to track the categories.    
 --> [Categories list](https://github.com/nevstop/nevstop.github.io/projects)
@@ -11,7 +15,9 @@
  - [**Linux Study**](https://github.com/nevstop/nevstop.github.io/projects/3)
  - [**Docker**](https://github.com/nevstop/nevstop.github.io/projects/4)
  
-**Issue Labels** are used as tags.   
+## Tags
+
+*Issue Labels** are used as tags.   
 
 [**Docker**](https://github.com/nevstop/nevstop.github.io/labels/Docker)
 [**git**](https://github.com/nevstop/nevstop.github.io/labels/git)
