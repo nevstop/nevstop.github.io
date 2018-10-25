@@ -10,7 +10,7 @@
 **Projects** are used to track the categories.    
 --> [Categories list](https://github.com/nevstop/nevstop.github.io/projects)
 
- - [**Userful LabVIEW VI Packages**](https://github.com/nevstop/nevstop.github.io/projects/1)
+ - [**LabVIEW**](https://github.com/nevstop/nevstop.github.io/projects/1)
  - [**Git**](https://github.com/nevstop/nevstop.github.io/projects/2)
  - [**Linux Study**](https://github.com/nevstop/nevstop.github.io/projects/3)
  - [**Docker**](https://github.com/nevstop/nevstop.github.io/projects/4)
