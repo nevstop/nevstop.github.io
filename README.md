@@ -28,6 +28,9 @@
 
 **Issue Labels** are used as tags.   
 
+[**[DITING]**](https://github.com/nevstop/nevstop.github.io/labels/%5BEDITING%5D) | 
+[**[PUBLISHED]**](https://github.com/nevstop/nevstop.github.io/labels/%5BPUBLISHED%5D)
+
 [**LabVIEW**](https://github.com/nevstop/nevstop.github.io/labels/LabVIEW) | 
 [**VIPM**](https://github.com/nevstop/nevstop.github.io/labels/VIPM) | 
 [**Github_Repo**](https://github.com/nevstop/nevstop.github.io/labels/Github_Repo) | 
